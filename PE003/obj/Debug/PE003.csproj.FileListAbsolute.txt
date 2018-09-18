@@ -1,0 +1,6 @@
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE003\bin\Debug\PE003.exe.config
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE003\bin\Debug\PE003.exe
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE003\bin\Debug\PE003.pdb
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE003\obj\Debug\PE003.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE003\obj\Debug\PE003.exe
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE003\obj\Debug\PE003.pdb

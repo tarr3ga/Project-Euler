@@ -1,0 +1,7 @@
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\bin\Debug\PE002.exe.config
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\bin\Debug\PE002.exe
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\bin\Debug\PE002.pdb
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\obj\Debug\PE002.csprojResolveAssemblyReference.cache
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\obj\Debug\PE002.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\obj\Debug\PE002.exe
+C:\Users\Andy\OneDrive\Code\Visual Studio 2017\Project Euler\PE002\obj\Debug\PE002.pdb
